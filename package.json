@@ -1,0 +1,32 @@
+{
+  "name": "ticker-duration-changer",
+  "version": "1.0.0",
+  "description": "Library to change ticker data into desired duration (e.g: 1 minutes data to 10 minutes data)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jazarja/ticker-duration-changer.git"
+  },
+  "keywords": [
+    "stock",
+    "ticker",
+    "stock",
+    "stock price",
+    "stock market",
+    "saham",
+    "bursa saham",
+    "indonesia"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
